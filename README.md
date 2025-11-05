@@ -7,8 +7,8 @@ Profiles App is a simple React application built with Vite. It displays a "Hello
 
 The commit that added React-Bootstrap and the “Hello React” display:
 
-commit : [README.md updated]
-url: (https://github.com/Haniya-kulsum/profiles-app/commit/15e103e847603b872e6dc1b6f796c9ae29220c3a)
+commit : [Added React Bootstrap and updated App component with Hello React UI]
+url: (https://github.com/Haniya-kulsum/profiles-app/commit/7f7e2833654309221945e778fcf9391abf519308)
 
 ## Screenshot
 

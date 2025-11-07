@@ -12,8 +12,15 @@ url: (https://github.com/Haniya-kulsum/profiles-app/commit/7f7e2833654309221945e
 
 ## Screenshot
 
-Screenshot 2025-11-05 125944
+(screenshot1.png)
 
 ## live Demo 
 
 https://haniya-kulsum.github.io/profiles-app/
+
+## Commit Link: 
+[View Commit]: (https://github.com/Haniya-kulsum/profiles-app/commit/517ac887ac607bf930de00a38c92b3318a14d8ab)
+
+## Screenshot:
+[Profiles Screenshot](screenshot2.png)
+
